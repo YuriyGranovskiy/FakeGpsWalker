@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FakeGpsWalker</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_map">Map</string>
+    <string name="action_exit">Exit</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

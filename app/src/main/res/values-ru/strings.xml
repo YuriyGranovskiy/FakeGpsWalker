@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FakeGpsWalker</string>
+    <string name="action_exit">Выход</string>
+    <string name="action_map">Карта</string>
+    <string name="action_settings">Настройки</string>
+</resources>
